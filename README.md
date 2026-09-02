@@ -1,6 +1,6 @@
-# Capgemini Training 🚀
+# Training 🚀
 
-This repository contains all my **Capgemini training work**, including daily practice programs, assignments, hands-on exercises, and tasks completed throughout the training period.
+This repository contains all my ** training work**, including daily practice programs, assignments, hands-on exercises, and tasks completed throughout the training period.
 
 It reflects my continuous learning, problem-solving approach, and practical exposure to the concepts taught during the training.
 
